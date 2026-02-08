@@ -1,0 +1,3 @@
+# Todo App - Basic Level Dependencies
+# Optional dependency for enhanced table formatting
+rich>=13.0.0
